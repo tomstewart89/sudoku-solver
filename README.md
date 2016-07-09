@@ -1,4 +1,4 @@
 sudoku-solver
 =============
 
-A recursive-backtrack implementation for brute force solving of sudoku puzzles
+A recursive-backtrack algorithm for solving sudoku puzzles
